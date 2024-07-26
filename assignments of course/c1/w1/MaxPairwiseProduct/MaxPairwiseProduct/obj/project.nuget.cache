@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfCKye6FK8I8QQ+mp1N/xzMEKLc92Lz6ls1lE/RDNdrrEbua+JM+bYOxR0oHgbuHnOySOnl9MJjLwp50lQNRiQ==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w1\\MaxPairwiseProduct\\MaxPairwiseProduct\\MaxPairwiseProduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

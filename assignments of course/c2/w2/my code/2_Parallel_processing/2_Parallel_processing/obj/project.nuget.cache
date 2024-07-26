@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWtpELHN3l/xefOo3pLyBxAd+IEOW2CcSXAEsE2vnxaK31zGc91Zerxi60xBeOcVR2zaNFo9AIsI63Byr/soOA==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w2\\my code\\2_Parallel_processing\\2_Parallel_processing\\2_Parallel_processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

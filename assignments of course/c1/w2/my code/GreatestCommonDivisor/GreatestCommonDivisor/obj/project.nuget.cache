@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMrkX+32Y36S4SXr0wHBifkLBkf7ZKjrvPpE8jIpIz1ZAg+vcK4+8R/jtf0fY2qYCtgstdRiOWPON+XkdWa0Bg==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w2\\my code\\GreatestCommonDivisor\\GreatestCommonDivisor\\GreatestCommonDivisor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

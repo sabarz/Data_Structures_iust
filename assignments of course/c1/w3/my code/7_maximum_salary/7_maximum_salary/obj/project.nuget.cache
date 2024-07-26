@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "47ZWrpZvoN+2+SNixw9Fr2vzh1IAwyEaJVYpwT5kkRiKA9RUq8YuR5GEw3MkxNBL24mE06YGRasvqyTIBRmeWA==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w3\\my code\\7_maximum_salary\\7_maximum_salary\\7_maximum_salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

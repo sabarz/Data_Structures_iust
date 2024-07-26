@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ni9UBDeOOd3Srj6S1fHDNLwJUeWxRX0HDqCmEj4Mhc4HDlM+GLUPwlALlDh8bVNWd2NUlX5G/+hFkHXIMANF2Q==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w1\\my code\\4_stack_with_max\\4_stack_with_max\\4_stack_with_max.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

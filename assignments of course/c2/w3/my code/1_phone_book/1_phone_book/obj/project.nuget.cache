@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ckiTHBbbN/dVcaFK4brVLFUtdypMWAlBmVvQL7t1pc1I7AEe+pMvAMMWXbbgY+yZfUAYDjP1XEhA/fT5EMAvw==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w3\\my code\\1_phone_book\\1_phone_book\\1_phone_book.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

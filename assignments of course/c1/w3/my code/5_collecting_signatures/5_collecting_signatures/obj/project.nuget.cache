@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7SiE82+UA60t2kHcViT/nZPaMH8099UlqVEonovE0KoL/lrEfcJO+LEwrd+3OHHAxQ684J0mSw6eqkJX1SlPQw==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w3\\my code\\5_collecting_signatures\\5_collecting_signatures\\5_collecting_signatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

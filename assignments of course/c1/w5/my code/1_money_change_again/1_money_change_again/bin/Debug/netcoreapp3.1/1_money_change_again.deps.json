@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1_money_change_again/1.0.0": {
+        "runtime": {
+          "1_money_change_again.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1_money_change_again/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

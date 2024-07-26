@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "4_longest_common_subsequence_of_two_sequences/1.0.0": {
+        "runtime": {
+          "4_longest_common_subsequence_of_two_sequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_longest_common_subsequence_of_two_sequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

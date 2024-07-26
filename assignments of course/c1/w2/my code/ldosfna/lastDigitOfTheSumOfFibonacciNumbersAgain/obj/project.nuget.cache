@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnSJEnAdEXoqVGnu7y39L+67oZ/pUDIC+P2n+Qt5jFt6gS/Mkmc5DiY2tZ2tD5TpQFzznpIbFcbBe4DiPuu57g==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w2\\my code\\lastDigitOfTheSumOfFibonacciNumbersAgain\\lastDigitOfTheSumOfFibonacciNumbersAgain\\lastDigitOfTheSumOfFibonacciNumbersAgain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

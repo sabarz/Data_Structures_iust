@@ -1,0 +1,13 @@
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.exe
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.deps.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.runtimeconfig.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.runtimeconfig.dev.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\bin\Debug\netcoreapp3.1\MaxPairwiseProduct.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.csprojAssemblyReference.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.AssemblyInfoInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.AssemblyInfo.cs
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.csproj.CoreCompileInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w1\MaxPairwiseProduct\MaxPairwiseProduct\obj\Debug\netcoreapp3.1\MaxPairwiseProduct.genruntimeconfig.cache

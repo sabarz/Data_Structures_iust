@@ -1,0 +1,13 @@
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.exe
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.deps.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.exe
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.deps.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.runtimeconfig.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.runtimeconfig.dev.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.AssemblyInfo.cs
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.genruntimeconfig.cache
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.exe
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.deps.json
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.runtimeconfig.json
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.runtimeconfig.dev.json
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.dll
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\bin\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.pdb
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.csprojAssemblyReference.cache
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.AssemblyInfoInputs.cache
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.AssemblyInfo.cs
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.csproj.CoreCompileInputs.cache
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.dll
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.pdb
+E:\saba folder\summer 00\DS\assignments\w2\my code\lastDigitOfTheSumOfFibonacciNumbers\lastDigitOfTheSumOfFibonacciNumbers\obj\Debug\netcoreapp3.1\lastDigitOfTheSumOfFibonacciNumbers.genruntimeconfig.cache

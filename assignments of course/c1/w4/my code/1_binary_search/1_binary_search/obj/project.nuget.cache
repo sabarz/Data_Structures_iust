@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIxzbqcEA5swzOF2Z3L9VFJMLr8eOsAOtsHJGlkzKQ9V7zy5N7tVgvbbuHaiTQm1YYjJWtLMcNxJqYajo8Qx1A==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w4\\my code\\1_binary_search\\1_binary_search\\1_binary_search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.exe
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.deps.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.runtimeconfig.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.runtimeconfig.dev.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\bin\Debug\netcoreapp3.1\FibonachiNumbers.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.csprojAssemblyReference.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.AssemblyInfoInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.AssemblyInfo.cs
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.csproj.CoreCompileInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\FibonachiNumbers\FibonachiNumbers\obj\Debug\netcoreapp3.1\FibonachiNumbers.genruntimeconfig.cache

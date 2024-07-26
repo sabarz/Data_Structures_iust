@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpmK2sZZ/fVlJyQNVtU3kWO+PRG57mnIBlhQ+t02b3oiHqzRj//f6Mv0F9VNPgtORaUoAzuSDKPQtqK2YUXYfQ==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w4\\my code\\6_closest_points\\6_closest_points\\6_closest_points.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

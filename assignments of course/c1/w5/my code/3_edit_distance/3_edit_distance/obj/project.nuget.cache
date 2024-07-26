@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTO0+8ST2sIlSCjkIIiBcJpYGB70rK64h90sCn3cbSBPldz9MGGypCRMtGDaETXmZU/C4mvclmFSfI55hvY9ig==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w5\\my code\\3_edit_distance\\3_edit_distance\\3_edit_distance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

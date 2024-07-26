@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiehcbzoYhYwf7mVsbaYMbcJfaLFkB28fiiGtpE8Xwuhv2NU5H4nu1TAdWny3d03bngVkoGEkJIFxzHZFpLoRw==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\summer 00\\DS\\assignments\\w3\\my code\\4_maximum_advertisement_revenue\\4_maximum_advertisement_revenue\\4_maximum_advertisement_revenue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

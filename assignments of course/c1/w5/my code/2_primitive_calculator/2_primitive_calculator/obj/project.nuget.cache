@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJvpvTnsK1xUTrnk+dJjFO5MvrmPTe9x67TQGkeoZs9TqxX+2mkoaK5W2S6SRzuFbLRAPNYCKPc+J+Cvqr3Rkw==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w5\\my code\\2_primitive_calculator\\2_primitive_calculator\\2_primitive_calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

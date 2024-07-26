@@ -1,0 +1,13 @@
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.exe
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.deps.json
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.runtimeconfig.json
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.runtimeconfig.dev.json
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.dll
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\bin\Debug\netcoreapp3.1\1_sum_of_two_digits.pdb
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.csprojAssemblyReference.cache
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.AssemblyInfoInputs.cache
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.AssemblyInfo.cs
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.csproj.CoreCompileInputs.cache
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.dll
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.pdb
+E:\saba folder\term 400\DS\assignments\w1\1_sum_of_two_digits\1_sum_of_two_digits\obj\Debug\netcoreapp3.1\1_sum_of_two_digits.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3_hash_substring/1.0.0": {
+        "runtime": {
+          "3_hash_substring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3_hash_substring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

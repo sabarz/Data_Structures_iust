@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtCb3GLPXlv1FtzlHUDChsFQkQ0gBd6dq4g7IMktpIOO7ZAfVcKxYkyhd+m21uUX1ETrEiVa/A5P428TJYt2Lw==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w3\\my code\\3_hash_substring\\3_hash_substring\\3_hash_substring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

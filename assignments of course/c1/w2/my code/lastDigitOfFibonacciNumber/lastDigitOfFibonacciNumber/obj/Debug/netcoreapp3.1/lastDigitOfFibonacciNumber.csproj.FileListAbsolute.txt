@@ -1,0 +1,13 @@
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.exe
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.deps.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.runtimeconfig.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.runtimeconfig.dev.json
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\bin\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.csprojAssemblyReference.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.AssemblyInfoInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.AssemblyInfo.cs
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.dll
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.pdb
+C:\Users\saba\Desktop\saba folder\term 3\DS\assignments\w2\lastDigitOfFibonacciNumber\lastDigitOfFibonacciNumber\obj\Debug\netcoreapp3.1\lastDigitOfFibonacciNumber.genruntimeconfig.cache

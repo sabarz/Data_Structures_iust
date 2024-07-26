@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeemeCLptd3H2DNx4ErEh1p/XxoEQOA+p/ToP1rTUz187Fq2kM738E7GnV8lI0RT2fYBFeqDcMSxw0i/p8mtpg==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 400\\DS\\assignments\\w3\\my code\\6_maximum_number_of_prizes\\6_maximum_number_of_prizes\\6_maximum_number_of_prizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
